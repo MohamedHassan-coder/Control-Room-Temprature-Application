@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Control Room Temprature</string>
+    <string name="current_temperature_50_c">--- \u00B0C</string>
+    <string name="current_humidity_50">--- %</string>
+    <string name="max_temperature_50_c">Set temperature = ---\u00B0C </string>
+    <string name="change">Change</string>
+    <string name="interrupt">Interrupt</string>
+    <string name="swipe_down_to_re_connect">Connection lost, Swipe down to Re-Connect....</string>
+    <string name="developed_by_mohamed_hassan_amp_amp_maged_magdy"><![CDATA[Developed by : Mohamed hassan && Maged Magdy]]></string>
+    <string name="error">:(</string>
+    <string name="connect">Connect</string>
+    <string name="begin">Begin receiving</string>
+</resources>
